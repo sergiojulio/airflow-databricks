@@ -13,7 +13,7 @@ notebook_task_config = {
                 "notebook_path": "/Workspace/Users/sergiojulio/notebook"
             },
             "compute": {
-                "compute_type": "SERVERLESS"  # <-- THIS IS THE FIX
+                "compute_type": "SERVERLESS"
             }
         }
     ]
